@@ -25,4 +25,4 @@ message.channel.send(ava)
     
     msg.delete();
  }
-};
+}
