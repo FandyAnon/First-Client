@@ -1,0 +1,15 @@
+module.exports = {
+	name: 'Nick',
+	description: '',
+  > guildOnly: false,
+  > ownerOnly: false,
+  > myServerOnly: false,
+	aliases: ['nick','setnick'],
+	usage: `Nick <player> <newnick>`,
+	cooldown: 5,
+	execute(client, message, args) {
+  
+  [INPUT YOUR CODE HERE]
+  
+   }
+ }
