@@ -18,8 +18,8 @@ module.exports = {
     .addField(`Commands State`,"If you want to get information about our commands, you can try to find with `Help_CommandName`. For example `Help User`")
     .addFields(
                 {
-                    name: "Development",
-                    value: "Development",
+                    name: "General",
+                    value: "`Avatar`",
                     inline: true
                 },
                 {
