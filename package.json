@@ -5,8 +5,8 @@
   "description": "Discord Moderation",
   "main": "index.js",
   "scripts": {
-    "start": "node Reone.js",
-    "dev": "nodemon Reone.js"
+    "start": "node Index.js",
+    "dev": "nodemon Index.js"
   },
   "engines": {
     "node": "12.x"
