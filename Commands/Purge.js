@@ -21,4 +21,4 @@ if (!message.member.hasPermission("MANAGE_MESSAGES") || !message.member.hasPermi
     
     .catch(() => message.channel.send("Something went wrong, while deleting messages.")) // This error will be displayed when the bot doesn't have an access to do it.
   }
-}
+};
