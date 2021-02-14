@@ -19,12 +19,12 @@ module.exports = {
     .addFields(
                 {
                     name: "General",
-                    value: "`Avatar`",
+                    value: "`Avatar` `Embed` `Ping`",
                     inline: true
                 },
                 {
                     name: "Development",
-                    value: "Moderation",
+                    value: "`Nick` `Purge`",
                     inline: true
                 })
 
