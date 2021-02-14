@@ -13,7 +13,6 @@ module.exports = {
     let API = client.ws.ping.toFixed();
     let Matcha = new Discord.MessageEmbed()
       .setAuthor("Network", client.user.displayAvatarURL({format: 'png', dynamic: true})+"?size=2048")
-      .setColor('fffaff')
       .setFooter(`Development`)
       .addField("Latency", `${diff}ms`, true)  
       .addField("API", `${API}ms`, true)
