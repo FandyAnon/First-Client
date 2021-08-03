@@ -3,7 +3,7 @@
   "name": "Moderation",
   "version": "1.0.0",
   "description": "Discord Moderation",
-  "main": "index.js",
+  "main": "Index.js",
   "scripts": {
     "start": "node Index.js",
     "dev": "nodemon Index.js"
